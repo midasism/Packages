@@ -1,0 +1,15 @@
+{
+	"channels":
+	[
+		"D:/Sublime Text 3/channel_v3.json"
+	],
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"expand_tabs_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Spacegray Light.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -3,13 +3,13 @@
 	[
 		"D:/Sublime Text 3/channel_v3.json"
 	],
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"expand_tabs_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 4,
-	"theme": "Spacegray Light.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
